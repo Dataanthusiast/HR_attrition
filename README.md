@@ -22,3 +22,8 @@ Creation of heatmap based on correlation.
 Creation of the dashboard:
 ![image](https://github.com/Dataanthusiast/HR_attrition/assets/128246911/bbb7444d-65db-426b-a28f-d03ad4cbc996)
 
+Conclusion:
+1. Salary group of  less than 5k has seen the highest number of attrition because they are being paid less.
+2. Age group of 25-30 has the highest attrition data since these age groups engage extensively in job searching and exploring.
+3. Laboratory technician job role has seen the highest number of job attrition on the basis of the job role.
+4. Attrition rate is 16.2% with male getting attrition 1.8x more than female.
